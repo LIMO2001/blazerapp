@@ -7,3 +7,5 @@ Add/Create Club
 clubs added
 <img width="468" height="470" alt="image" src="https://github.com/user-attachments/assets/f7f8ed5a-d484-45f4-9dd0-af285413ea85" />
 
+video sample
+[screen-capture.webm](https://github.com/user-attachments/assets/bde6b191-0603-4684-9d14-1306b2d5c6f7)
